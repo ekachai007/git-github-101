@@ -1,5 +1,5 @@
-# ✨ Hello, World! Animation (tkinter)
-
+# ✨ Hello, World! Animation (tkinter) by Ekachai
+ 
 โปรแกรม Hello World แบบมีแอนิเมชัน เขียนด้วย Python + tkinter ในไฟล์เดียว ไม่ต้องติดตั้งไลบรารีเพิ่ม
 
 ![ตัวอย่างโปรแกรม](Screenshot.png)
